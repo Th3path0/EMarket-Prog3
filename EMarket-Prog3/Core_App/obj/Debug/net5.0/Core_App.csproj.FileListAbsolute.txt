@@ -1,0 +1,5 @@
+C:\Users\YAEL\source\repos\Core_App\obj\Debug\net5.0\Core_App.csproj.AssemblyReference.cache
+C:\Users\YAEL\source\repos\Core_App\obj\Debug\net5.0\Core_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\source\repos\Core_App\obj\Debug\net5.0\Core_App.AssemblyInfoInputs.cache
+C:\Users\YAEL\source\repos\Core_App\obj\Debug\net5.0\Core_App.AssemblyInfo.cs
+C:\Users\YAEL\source\repos\Core_App\obj\Debug\net5.0\Core_App.csproj.CoreCompileInputs.cache

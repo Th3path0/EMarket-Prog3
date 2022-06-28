@@ -1,0 +1,5 @@
+C:\Users\YAEL\source\repos\DB_persistence\obj\Debug\net5.0\DB_persistence.csproj.AssemblyReference.cache
+C:\Users\YAEL\source\repos\DB_persistence\obj\Debug\net5.0\DB_persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\source\repos\DB_persistence\obj\Debug\net5.0\DB_persistence.AssemblyInfoInputs.cache
+C:\Users\YAEL\source\repos\DB_persistence\obj\Debug\net5.0\DB_persistence.AssemblyInfo.cs
+C:\Users\YAEL\source\repos\DB_persistence\obj\Debug\net5.0\DB_persistence.csproj.CoreCompileInputs.cache

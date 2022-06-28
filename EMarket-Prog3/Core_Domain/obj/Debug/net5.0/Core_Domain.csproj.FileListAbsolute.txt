@@ -1,0 +1,12 @@
+C:\Users\YAEL\source\repos\Core_Domain\bin\Debug\net5.0\Core_Domain.deps.json
+C:\Users\YAEL\source\repos\Core_Domain\bin\Debug\net5.0\Core_Domain.dll
+C:\Users\YAEL\source\repos\Core_Domain\bin\Debug\net5.0\ref\Core_Domain.dll
+C:\Users\YAEL\source\repos\Core_Domain\bin\Debug\net5.0\Core_Domain.pdb
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\Core_Domain.csproj.AssemblyReference.cache
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\Core_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\Core_Domain.AssemblyInfoInputs.cache
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\Core_Domain.AssemblyInfo.cs
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\Core_Domain.csproj.CoreCompileInputs.cache
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\Core_Domain.dll
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\ref\Core_Domain.dll
+C:\Users\YAEL\source\repos\Core_Domain\obj\Debug\net5.0\Core_Domain.pdb
